@@ -11,6 +11,7 @@ package source;
  */
 public class Producto {
     
+    public int[] ids = new int[1000];
     private String nombre;
     private String descripcion;
     private String proveedor;
@@ -22,15 +23,41 @@ public class Producto {
     public Producto(String nombre){
         this.nombre =  nombre;
     }
-    public Producto(String nombre, String descripcion, String proveedor, String unidad, double cantidad, double precio) {
+    public Producto(String nombre,String proveedor, String unidad, double cantidad, double precio) {
         this.nombre = nombre;
-        this.descripcion = descripcion;
+       
         this.proveedor = proveedor;
         this.cantidad = cantidad;
         this.unidad = unidad;
         this.precio = precio;
+        this.id = idGen();
+        
         
     }
+    private boolean compareTo(int valor, int[] a){
+        boolean estado = false;
+        for(int i = 0; i<a.length; i++){
+            if(valor == a[i]){
+                estado = true;
+                break;
+                
+            }
+        }
+        return false;
+    }
+    private int idGen(){
+        boolean estado = true;
+        
+        int key = 0;
+        while(estado){
+            key = (int) (Math.random() * 1000);
+            estado = compareTo(key, ids);
+        }
+        
+        return key;
+    }
+            
+    
 
     @Override
     public String toString() {
