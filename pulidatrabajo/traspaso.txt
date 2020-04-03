@@ -1,0 +1,72 @@
+XBTU
+cemento especial
+polpaico
+kg
+25.0
+3490.0
+7VDH
+Hormigon predosificado
+transex
+kg
+25.0
+2800.0
+S462
+hormigon rapido
+transex
+kg
+25.0
+5790.0
+FD5S
+mortero piso
+transex
+kg
+25.0
+2800.0
+M6UW
+cemento especial
+cbb
+kg
+25.0
+3490.0
+4HSN
+cemento blanco
+iberica
+kg
+5.0
+4490.0
+63S6
+cemento gris
+iberica
+kg
+5.0
+2090.0
+KKBE
+cemento gris
+iberica
+kg
+2.5
+590.0
+GAFH
+cemento blanco
+iberica
+kg
+2.5
+2390.0
+ZX7S
+cemento blanco
+iberica
+kg
+1.0
+1490.0
+G427
+cemento gris
+iberica
+kg
+1.0
+690.0
+USEQ
+concreto rapido
+presec
+kg
+25.0
+5790.0
