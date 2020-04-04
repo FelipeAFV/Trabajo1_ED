@@ -1,11 +1,29 @@
+K2M4
+cemento especial
+melon
+kg
+25.0
+3490.0
 XBTU
 cemento especial
 polpaico
 kg
 25.0
 3490.0
+KSXD
+nivelador piso
+transex
+kg
+25.0
+7990.0
+9UHK
+estruco exterior
+transex
+kg
+25.0
+3070.0
 7VDH
-Hormigon predosificado
+Hormigon predos
 transex
 kg
 25.0
@@ -22,6 +40,12 @@ transex
 kg
 25.0
 2800.0
+8AM4
+mortero de pega
+transex
+kg
+25.0
+2480.0
 M6UW
 cemento especial
 cbb
@@ -70,3 +94,81 @@ presec
 kg
 25.0
 5790.0
+NJFD
+pega albañileria
+presec
+kg
+25.0
+2530.0
+7BV7
+estuco interior
+presec
+kg
+25.0
+3640.0
+4QWN
+estuco exterior
+presec
+kg
+25.0
+3130.0
+ABNS
+piso normal
+presec
+kg
+25.0
+2690.0
+MWAP
+hormigon
+presec
+kg
+25.0
+2890.0
+6GPM
+silkagrout
+sika
+kg
+25.0
+10290.0
+6FES
+sikalisto repair
+sika
+kg
+25.0
+10390.0
+GPE4
+pega albaliñeria
+bemezcla
+kg
+25.0
+2480.0
+BRQJ
+piso normal
+bemezcla
+kg
+25.0
+2690.0
+6BCP
+hormigon
+bemezcla
+kg
+25.0
+2800.0
+CYAB
+frague acelerador
+cave
+kg
+2.0
+11490.0
+SVHG
+mortero reparaciones
+presec
+kg
+5.0
+1925.0
+SSM5
+pasta enlucido
+cave
+kg
+24.0
+49890.0

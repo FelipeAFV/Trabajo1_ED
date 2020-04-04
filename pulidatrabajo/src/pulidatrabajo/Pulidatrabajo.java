@@ -34,10 +34,16 @@ public class Pulidatrabajo {
                 if (valor == "NUMERIC"){
                     String output = "" + sheet.getRow(i).getCell(a).getNumericCellValue();
                     lector.write(output);
+                    if (i == longitud && a == 5){
+                        continue;
+                    }else
                     lector.newLine();
                 }else if (valor != "NUMERIC"){
                     String el = sheet.getRow(i).getCell(a).getStringCellValue();
                     lector.write(el);
+                    if (i == longitud && a == 5){
+                        continue;
+                    }else
                     lector.newLine();
                 }
                     
@@ -122,15 +128,23 @@ public class Pulidatrabajo {
                 d = datos[i].personal[3];
                 e = datos[i].personal[4];
                 f = datos[i].personal[5];
-                System.out.print(String.format("%-20.20s", a) + "|");
+                JOptionPane.showMessageDialog(null, "id: " + a);
+                JOptionPane.showMessageDialog(null, "nombre: " + b);
+                JOptionPane.showMessageDialog(null, "marca: " + c);
+                JOptionPane.showMessageDialog(null, "medida: " + d);
+                JOptionPane.showMessageDialog(null, "cantidad: " + e);
+                JOptionPane.showMessageDialog(null, "precio: " + f);
+                return;
+                /*System.out.print(String.format("%-20.20s", a) + "|");
                 System.out.print(String.format("%-20.20s", b) + "|");
                 System.out.print(String.format("%-20.20s", c) + "|");
                 System.out.print(String.format("%-20.20s", d) + "|");
                 System.out.print(String.format("%-20.20s", e) + "|");
                 System.out.print(String.format("%-20.20s", f) + "|");
-                System.out.println("\n");
+                System.out.println("\n");*/
             }
         }
+        JOptionPane.showMessageDialog(null, "no se encontro el elemento");
         
     }
     
@@ -223,8 +237,45 @@ public class Pulidatrabajo {
          JOptionPane.showMessageDialog(null, "elemnto añadido!");
          return datos;
      }
+     
+     public static void edit(Contenedor[] datos){
+         String l = JOptionPane.showInputDialog("id de elemnto a editar");
+         for (int i = 0; i < datos.length; i++){
+             if (l.equals(datos[i].personal[0])){
+                 String newid = JOptionPane.showInputDialog("indica el nuevo id");
+                 String newname = JOptionPane.showInputDialog("indica el nombre");
+                 String newmarca = JOptionPane.showInputDialog("indica la marca");
+                 String newmed = JOptionPane.showInputDialog("indica la medida");
+                 String newcantidad = JOptionPane.showInputDialog("indica la cantidad");
+                 String newprecio = JOptionPane.showInputDialog("indica el precio");
+                 datos[i].personal[0] = newid;
+                 datos[i].personal[1] = newname;
+                 datos[i].personal[2] = newmarca;
+                 datos[i].personal[3] = newmed;
+                 datos[i].personal[4] = newcantidad;
+                 datos[i].personal[5] = newprecio;
+             
+             }
+             
+         }
+         JOptionPane.showMessageDialog(null, "no se encontro el elemento");
+         refresher(datos);
+         
+     }
+     
+     public static void viewall(Contenedor[] datos){
+         JOptionPane.showMessageDialog(null, "mira la consola!");
+         for(int i = 0; i < datos.length; i++){
+             for(int a = 0; a < 6; a++){
+                 String c = datos[i].personal[a];
+                 System.out.print(String.format("%-20.20s", c) + "|");
+             }
+             System.out.print("\n");
+         }
+     }
 
     public static void main(String[] args) {
+
         int lar = (longchecker() / 6);
         Contenedor[] caja = new Contenedor[(lar)];
         for (int i = 0; i < lar; i++){
@@ -234,7 +285,8 @@ public class Pulidatrabajo {
         setter(caja);
         boolean decision = true;
         while(decision){
-            JOptionPane.showMessageDialog(null, "1-consultar  2-añadir  3-eliminar  4-salir");
+            JOptionPane.showMessageDialog(null, "1-consultar  2-añadir  "
+                    + "3-eliminar" + "\n" + "4-editar  5-ver lista  6-salir");
             String l = JOptionPane.showInputDialog("que deseas hacer");
             int decision2 = Integer.parseInt(l);
             
@@ -251,6 +303,12 @@ public class Pulidatrabajo {
                     caja = deleter(caja, id2);
                     break;
                 case 4:
+                    edit(caja);
+                    break;
+                case 5:
+                    viewall(caja);
+                    break;
+                case 6:
                     decision = false;
                     System.out.println("adios");
                     break;
