@@ -1,0 +1,32 @@
+
+cemento blanco /sika/kg/1.0/990.0/10VS/
+carbolineo/quimica universal/l/17.0/44250.0/92SC/
+igol plus/sika/l/4.5/25690.0/32QS/
+yeso espuma/romeral/kg/25.0/3970.0/87UA/
+impermeabilizante/emc4/kg/1.0/6890.0/13AY/
+nivelador de pisos/topex/kg/25.0/8990.0/26SL/
+sikalisto/sika/kg/5.0/9990.0/22ID/
+topex latex/topex/lt/18.0/60442.0/06ZA/
+topex -3/topex/lt/18.0/17592.0/03LO/
+cave listo color/cave/kg/20.0/16990.0/30FK/
+topex desmol/topex/lt/16.0/43630.0/28GL/
+sika -1/sika/kg/200.0/10990.0/81PÑ/
+cemento blanco /topex/kg/1.0/1490.0/64PZ/
+sika latex/sika/lt/18.0/75552.0/79WM/
+fast/generico/un/2.0/14990.0/39WB/
+cave i seal/cave/kg/20.0/25990.0/25LQ/
+igol primer/sika/lt/16.0/37990.0/33XA/
+aqua defense/mapei/kg/6.5/62990.0/82QG/
+niveltec/altec/kg/25.0/22190.0/22ZM/
+emc4/emc4/lt/3.8/10590.0/55EB/
+aridos/genericos/kg/25.0/940.0/85TO/
+sikalisto repair plus/sika/kg/25.0/10390.0/43GB/
+cave plasticem/cave/kg/24.0/60990.0/94CA/
+bondtec 500/altec/un/1.0/68500.0/30ÑZ/
+puma/iberica/kg/1.0/2490.0/56ÑD/
+puma/iberica/kg/1.0/1390.0/02XP/
+cave groutec/cave/kg/20.0/10990.0/24YH/
+mortero piso/topex/kg/25.0/2690.0/29KR/
+aridos/generico/kg/25.0/920.0/56SB/
+eco prim grip/mapei/kg/10.0/67500.0/93WF/
+sika rep/sika/kg/25.0/10990.0/82GG/
