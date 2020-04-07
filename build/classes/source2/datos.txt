@@ -1,172 +1,504 @@
 
-mortero de reparacion/topex/kg/5.0/3990.0/68HU/
-hormigon preparado/topex/kg/25.0/2490.0/02HU/
-saco de escombro/bauker/un/10.0/6290.0/83UU/
-cemento blanco /sika/kg/1.0/1490.0/78PU/
-carbolineo/quimica universal/l/17.0/44250.0/74CA/
-igol plus/sika/l/4.5/25690.0/57PL/
-yeso espuma/romeral/kg/25.0/3970.0/01VG/
-impermeabilizante/emc4/kg/1.0/6890.0/53HV/
-nivelador de pisos/topex/kg/25.0/8990.0/44JH/
-sikalisto/sika/kg/5.0/9990.0/90UD/
-topex latex/topex/lt/18.0/60442.0/18MP/
-topex -3/topex/lt/18.0/17592.0/03GR/
-cave listo color/cave/kg/20.0/16990.0/27YS/
-topex desmol/topex/lt/16.0/43630.0/49JF/
-sika -1/sika/kg/200.0/109990.0/25RG/
-cemento blanco /topex/kg/1.0/1490.0/00BX/
-sika latex/sika/lt/18.0/75552.0/39WS/
-fast/generico/un/2.0/14990.0/38UG/
-cave i seal/cave/kg/20.0/25990.0/10SA/
-igol primer/sika/lt/16.0/37990.0/09KF/
-aqua defense/mapei/kg/6.5/62990.0/90YT/
-niveltec/altec/kg/25.0/22190.0/55GQ/
-emc4/emc4/lt/3.8/10590.0/13UR/
-aridos/genericos/kg/25.0/940.0/74ZL/
- sikalisto repair plus/sika/kg/25.0/10390.0/98CD/
-cave plasticem/cave/kg/24.0/60990.0/75XU/
-bondtec 500/altec/un/1.0/68500.0/21JU/
-puma/iberica/kg/1.0/2490.0/34VG/
-puma/iberica/kg/1.0/1390.0/71CG/
-cave groutec/cave/kg/20.0/10990.0/56BR/
-mortero piso/topex/kg/25.0/2690.0/66AD/
-aridos/generico/kg/25.0/920.0/25WM/
-eco prim grip/mapei/kg/10.0/67500.0/33RG/
-sika rep/sika/kg/25.0/10990.0/97ND/
-apoyo de hormigon/grau/un/1.0/2090.0/61LY/
-bloque de cemento/grau/un/1.0/1190.0/60QM/
-pega bloques de vidrio/topex/kg/15.0/14990.0/78EC/
-pega bloques de vidrio/topex/kg/5.0/4990.0/37QC/
-bloque de vidrio/holztek/un/1.0/4590.0/67HK/
-bloque de vidrio esquinero/bs/un/1.0/9690.0/68PO/
-separadores de bloques de vidrio/dvp/un/10.0/3590.0/07LO/
-pastelon grano fulget/generico/un/1.0/2990.0/89GW/
-baldosa decorativa/la cantera/m^2/1.0/32990.0/79WD/
-pastelon granitico gris/blangino/un/1.0/5390.0/01QG/
-pastelon bardiglio/blangino/un/1.0/3990.0/69KK/
-pastelon cantera gris/super/un/1.0/2590.0/85NQ/
-palmeta parkincesped/insytec/un/1.0/1990.0/06IA/
-solerilla canto redondo/grau/un/1.0/797.0/78WU/
-solerilla canto redondo/arrow group/un/1.0/1594.0/85AR/
-soporte para pastelones/deck raiser/un/6.0/14990.0/13AI/
-soporte para pastelones/deck raiser/un/14.0/12990.0/34NS/
-pastelon flor/san carlos/un/1.0/4390.0/11SW/
-solerilla metalica negra/generico/un/1.0/10690.0/03ÑU/
-pastelon vicuña rojo/super/un/1.0/3690.0/67ZC/
-pastelon flor amarillo/super/un/1.0/4290.0/71UQ/
-pallet pastelon naturaleza/san carlos/un/50.0/189490.0/25LX/
-pastelon grano fulget/generico/un/1.0/2990.0/98KS/
-solerilla metalica café/generico/un/1.0/10690.0/62GI/
-pastelos elqui gris/super/un/1.0/3690.0/32FT/
-pastelon terracota/blangino/un/1.0/3690.0/89UU/
-eschape liso beige/ceramicaas toro/m^2/1.0/15980.0/43FH/
-eschape liso terracota/ceramicas toro/m^2/1.0/23980.0/54OY/
-eschape liso chocolate /ceramicas toro/m^2/1.0/15980.0/67QW/
-ladrillo fiscal/generico/un/1.0/160.0/95HZ/
-eschapepara estufas a leña/lunge/un/1.0/6990.0/08UI/
-ladrillo 9 super/ceramicas santiago/un/1.0/700.0/01AK/
-ladrillo 7 super/ceramicas santiago/un/1.0/290.0/23JL/
-malla galvanizada/acmanet/m^2/2.0/14890.0/04LL/
-reja para jardin plastico/oliver/m/3.0/12990.0/17DV/
-cerco galvanizado/acmanet/m^2/5.55/18590.0/64IT/
-cerco ursus/inchalam/m^2/140.0/135290.0/21PZ/
-cerco ursus/inchalam/m^2/80.0/85290.0/19MF/
-cerco estaca madera/alonso e hijo/m^2/0.4/6490.0/83UÑ/
-tornillo volcanita/mamut/un/200.0/5290.0/03DZ/
-esquinero interior/generico/m/3.0/10990.0/58MN/
-perfil verde/dvp/m/3.8/5990.0/52NX/
-perfil j/dvp/m/3.8/5990.0/60EV/
-autoperforante lenteja/mamut/un/100.0/2700.0/09TP/
-tornillo yesocarton/mamut/un/50.0/6790.0/29AQ/
-perfil estructural/metalcon/m/6.0/4990.0/43TS/
-ceramica multicolor/incefra/m^2/1.0/4380.0/94UD/
-ceramica cafe  /incefra/m^2/1.0/5690.0/36PC/
-ceramica cafe  /cordillera/m^2/1.0/11348.0/61IL/
-ceramica miel /cordillera/m^2/1.0/8390.0/99FI/
-ceramica blanca/holztek/m^2/1.0/3180.0/01GL/
-fachaleta multicolor/bs/m^2/1.0/15490.0/74WR/
-ceramica beige/san lorenzo/m^2/1.0/5290.0/44AU/
-ceramica beige/incefra/m^2/1.0/6990.0/56UD/
-ceramica gris/incefra/m^2/1.0/5990.0/60LH/
-ceramica gris/cordillera/m^2/1.0/6290.0/86EF/
-ceramica azul/cordillera/m^2/1.0/12190.0/92XH/
-ceramica beige/lamosa/m^2/1.0/4590.0/51IZ/
-ceramica muro/pamesa/m^2/1.0/15290.0/95NE/
-ceramica muro/arielle/m^2/1.0/7290.0/10LI/
-ceramica pedralva/cordillera/m^2/1.0/9290.0/04SY/
-ceramica cafe  /klipen/m^2/1.0/7690.0/78NU/
-ceramica marfil/cordillera/m^2/1.0/6790.0/28WF/
-ceramica soho mix/mainzu/m^2/1.0/25990.0/38ÑC/
-ceramica preston/mainzu/m^2/1.0/25990.0/10CE/
-ceramica enzo/mainzu/m^2/1.0/25990.0/70OI/
-poxipol/adepac/ml/14.0/3490.0/21AZ/
-adhesivo ceramico en polvo/topex/kg/25.0/2290.0/78ME/
-adhesivo en pasta especial/topex/kg/25.0/12490.0/77VS/
-adhesivo ceramico en pasta/topex/kg/6.0/5097.0/04RR/
-adhesivo para baño/solcrom/kg/25.0/3321.0/60LG/
-adhesivo en pasta especial/weber solcrom/kg/25.0/15790.0/61BL/
-adhesivo ceramico en pasta/adhesivos tx/kg/6.0/5090.0/58FV/
-adhesivo revestimiento/solcrom/kg/25.0/14990.0/75LM/
-adhesivo ceramico en pasta/bekron/kg/25.0/28390.0/20IG/
-adhesivo para piedras/topex/kg/20.0/6987.0/46DU/
-bekron a-c/bekron/kg/6.0/5365.0/12ÑM/
-adhesivo ceramica exterior/solcrom/kg/25.0/4809.0/16UN/
-adhesivo ceramico/sika/kg/25.0/21790.0/13LF/
-adhesivo sikaceram/sika/kg/25.0/25290.0/11PE/
-brocha multiproposito/kolor/un/1.0/3350.0/38YN/
-brocha para esmalte y latex/kolor/un/1.0/5230.0/16EO/
-brocha para barniz/kolor/un/1.0/3860.0/74OJ/
-brocha multiproposito/premier/un/1.0/1990.0/96RD/
-brocha para esmalte sintetico/kolor/un/1.0/5440.0/68LJ/
-pincel plano /hela/un/1.0/1390.0/29CS/
-brocha profesional/kolor/un/1.0/7930.0/72KZ/
-brocha/mas economica/un/1.0/1290.0/86YÑ/
-pincel redondo/hela/un/1.0/1690.0/17TC/
-brocha multiproposito/condor/un/1.0/5290.0/33XG/
-oleo experto crema/ceresita/galon/0.25/780.0/97TH/
-esmalte al agua reciclado satin blanco/pinturec/galon/4.0/58790.0/60VO/
-esmalte al agua satinado blanco /tricolor/galon/5.0/77400.0/56AN/
-esmalte al agua satinado marfil/tajamar/galon/1.0/11990.0/35BJ/
-esmalte para metales  negro/kolor/galon/1.0/23990.0/75MD/
-pintura latex amarillo/tricolor /galon/1.0/11890.0/20WA/
-pintura latex marfil /tricolor /galon/1.0/11890.0/72AJ/
-barniz vitrificante semibrillante/sipa/galon/1.0/45590.0/52HY/
-esmalte al agua satinado blanco /tricolor/galon/0.25/8090.0/55HÑ/
-esmalte al agua semibrillante blanco/sipa/galon/0.25/5490.0/72FG/
-esmalte sintetico cereluxe café/ceresita/galon/0.25/7130.0/07CO/
-oleo brillante /ceresita/galon/5.0/99960.0/69UN/
-pintura latex mate blanco/sipa/galon/4.0/46550.0/70VD/
-esmalte al agua amarillo/rust-oleum/galon/4.0/12990.0/83AQ/
-esmalte al agua rojo/pinturec/galon/1.0/17590.0/10ZT/
-esmalte al agua satin rojo/pinturec/galon/4.0/58790.0/65AF/
-pintura latex blanco /tricolor/galon/1.0/11880.0/36ÑJ/
-esmalte al agua blanco /tricolor /galon/0.25/8090.0/45EJ/
-esmalte al agua satinado blanco /tricolor/galon/1.0/19350.0/09UM/
-esmalte al agua satinado rojo/tricolor/galon/1.0/19350.0/44EN/
-esmalte al agua satinado damasco/tricolor/galon/1.0/19350.0/59ZO/
-esmalte al agua satinado pistacho/tricolor /galon/1.0/19350.0/65UR/
-esmalte al agua ocre /tricolor/galon/1.0/18990.0/18ÑD/
-esmalte al agua amarillo/pinturec/galon/1.0/17590.0/99ZÑ/
-esmalte sintetico cafe/ceresita/galon/1.0/20390.0/75CC/
-esmalte sintetico sintetico /ceresita/galon/1.0/7130.0/59ZW/
-esmalte sintetico blanco hueso/ceresita/galon/1.0/7130.0/84LI/
-esmalte sintetico base agua blanco/kolor/galon/1.0/10128.0/63RE/
-latex reciclado amarillo/pinturec/galon/4.0/42700.0/35KU/
-latex reciclado azul/pinturec/galon/4.0/42690.0/36ÑK/
-esmalte reciclado satin verde/pinturec/galon/1.0/17490.0/45OX/
-esmalte al agua satin azul/pinturec/galon/4.0/58690.0/95LW/
-esmalte sintetico azul/ceresita/galon/1.0/20390.0/66WX/
-esmalte sintetico ladrillo/ceresita/galon/1.0/20390.0/68WO/
-latex pro 2000 base blanco/topex/galon/1.0/9990.0/68YP/
-esmalte al agua satinado blanco /lanco/galon/5.0/67890.0/40XH/
-esmalte al agua antibacterial blanco/kolor/galon/0.25/9990.0/54HN/
-esmalte sintetico cafe/ceresita/galon/0.25/7130.0/92UB/
-esmalte sintetico calipso/ceresita/galon/1.0/20390.0/91HJ/
-esmalte sintetico blanco /ceresita/galon/1.0/20390.0/43LI/
-esmalte sintetico verde accion secado/kolor/galon/1.0/28937.0/08TS/
-esmalte sintetico negro/ceresita/galon/0.25/7130.0/38SG/
-esmalte al agua marfil/soquina/galon/1.0/15990.0/71MW/
-latex pro 2000 base blanco/topex/galon/5.0/39990.0/69CJ/
-pintura multi superficie/rust-oleum/galon/0.25/7990.0/85BB/
-esmalte al agua reciclado cafe /pinturec/galon/1.0/17490.0/12GÑ/
-latex reciclado extracubriente cafe/pinturec/galon/4.0/42690.0/33VJ/
+mortero de reparacion/topex/kg/5.0/3990.0/40DJ/
+hormigon preparado/topex/kg/25.0/2490.0/49PL/
+saco de escombro/bauker/un/10.0/6290.0/79KR/
+cemento blanco /sika/kg/1.0/1490.0/26UP/
+carbolineo/quimica universal/l/17.0/44250.0/31GJ/
+igol plus/sika/l/4.5/25690.0/33BF/
+yeso espuma/romeral/kg/25.0/3970.0/10LC/
+impermeabilizante/emc4/kg/1.0/6890.0/87DQ/
+nivelador de pisos/topex/kg/25.0/8990.0/74BD/
+sikalisto/sika/kg/5.0/9990.0/00QY/
+topex latex/topex/lt/18.0/60442.0/08NL/
+topex -3/topex/lt/18.0/17592.0/03MY/
+cave listo color/cave/kg/20.0/16990.0/17AÑ/
+topex desmol/topex/lt/16.0/43630.0/72MR/
+sika -1/sika/kg/200.0/109990.0/76HR/
+cemento blanco /topex/kg/1.0/1490.0/66WG/
+sika latex/sika/lt/18.0/75552.0/24PC/
+fast/generico/un/2.0/14990.0/54YY/
+cave i seal/cave/kg/20.0/25990.0/25JK/
+igol primer/sika/lt/16.0/37990.0/96PM/
+aqua defense/mapei/kg/6.5/62990.0/55DB/
+niveltec/altec/kg/25.0/22190.0/38AL/
+emc4/emc4/lt/3.8/10590.0/25RA/
+aridos/genericos/kg/25.0/940.0/83VF/
+ sikalisto repair plus/sika/kg/25.0/10390.0/44EZ/
+cave plasticem/cave/kg/24.0/60990.0/23BN/
+bondtec 500/altec/un/1.0/68500.0/64AN/
+puma/iberica/kg/1.0/2490.0/18VH/
+puma/iberica/kg/1.0/1390.0/60XC/
+cave groutec/cave/kg/20.0/10990.0/45FW/
+mortero piso/topex/kg/25.0/2690.0/39ÑW/
+aridos/generico/kg/25.0/920.0/73HL/
+eco prim grip/mapei/kg/10.0/67500.0/67CI/
+sika rep/sika/kg/25.0/10990.0/74AK/
+apoyo de hormigon/grau/un/1.0/2090.0/43GÑ/
+bloque de cemento/grau/un/1.0/1190.0/58TW/
+pega bloques de vidrio/topex/kg/15.0/14990.0/96GY/
+pega bloques de vidrio/topex/kg/5.0/4990.0/81PP/
+bloque de vidrio/holztek/un/1.0/4590.0/10VX/
+bloque de vidrio esquinero/bs/un/1.0/9690.0/52JH/
+separadores de bloques de vidrio/dvp/un/10.0/3590.0/26FG/
+pastelon grano fulget/generico/un/1.0/2990.0/57JK/
+baldosa decorativa/la cantera/m^2/1.0/32990.0/53GQ/
+pastelon granitico gris/blangino/un/1.0/5390.0/18UR/
+pastelon bardiglio/blangino/un/1.0/3990.0/37UT/
+pastelon cantera gris/super/un/1.0/2590.0/24VW/
+palmeta parkincesped/insytec/un/1.0/1990.0/90PI/
+solerilla canto redondo/grau/un/1.0/797.0/74DM/
+solerilla canto redondo/arrow group/un/1.0/1594.0/08FA/
+soporte para pastelones/deck raiser/un/6.0/14990.0/28IX/
+soporte para pastelones/deck raiser/un/14.0/12990.0/66ZJ/
+pastelon flor/san carlos/un/1.0/4390.0/79ML/
+solerilla metalica negra/generico/un/1.0/10690.0/11DJ/
+pastelon vicuña rojo/super/un/1.0/3690.0/70TW/
+pastelon flor amarillo/super/un/1.0/4290.0/40IW/
+pallet pastelon naturaleza/san carlos/un/50.0/189490.0/79YF/
+pastelon grano fulget/generico/un/1.0/2990.0/13WG/
+solerilla metalica café/generico/un/1.0/10690.0/43CQ/
+pastelos elqui gris/super/un/1.0/3690.0/51MM/
+pastelon terracota/blangino/un/1.0/3690.0/15VJ/
+eschape liso beige/ceramicaas toro/m^2/1.0/15980.0/92DN/
+eschape liso terracota/ceramicas toro/m^2/1.0/23980.0/14CC/
+eschape liso chocolate /ceramicas toro/m^2/1.0/15980.0/09GA/
+ladrillo fiscal/generico/un/1.0/160.0/02ZX/
+eschapepara estufas a leña/lunge/un/1.0/6990.0/74RX/
+ladrillo 9 super/ceramicas santiago/un/1.0/700.0/62ÑU/
+ladrillo 7 super/ceramicas santiago/un/1.0/290.0/57NN/
+malla galvanizada/acmanet/m^2/2.0/14890.0/11EU/
+reja para jardin plastico/oliver/m/3.0/12990.0/90VZ/
+cerco galvanizado/acmanet/m^2/5.55/18590.0/67BG/
+cerco ursus/inchalam/m^2/140.0/135290.0/86LM/
+cerco ursus/inchalam/m^2/80.0/85290.0/18CQ/
+cerco estaca madera/alonso e hijo/m^2/0.4/6490.0/59SD/
+tornillo volcanita/mamut/un/200.0/5290.0/67CH/
+esquinero interior/generico/m/3.0/10990.0/53QE/
+perfil verde/dvp/m/3.8/5990.0/98ZF/
+perfil j/dvp/m/3.8/5990.0/47JT/
+autoperforante lenteja/mamut/un/100.0/2700.0/39NU/
+tornillo yesocarton/mamut/un/50.0/6790.0/97ST/
+perfil estructural/metalcon/m/6.0/4990.0/08WK/
+ceramica multicolor/incefra/m^2/1.0/4380.0/98QT/
+ceramica cafe  /incefra/m^2/1.0/5690.0/62TE/
+ceramica cafe  /cordillera/m^2/1.0/11348.0/48HJ/
+ceramica miel /cordillera/m^2/1.0/8390.0/12ZC/
+ceramica blanca/holztek/m^2/1.0/3180.0/67CH/
+fachaleta multicolor/bs/m^2/1.0/15490.0/72CÑ/
+ceramica beige/san lorenzo/m^2/1.0/5290.0/24VH/
+ceramica beige/incefra/m^2/1.0/6990.0/01ZE/
+ceramica gris/incefra/m^2/1.0/5990.0/17HÑ/
+ceramica gris/cordillera/m^2/1.0/6290.0/68RT/
+ceramica azul/cordillera/m^2/1.0/12190.0/24AC/
+ceramica beige/lamosa/m^2/1.0/4590.0/71VN/
+ceramica muro/pamesa/m^2/1.0/15290.0/52ID/
+ceramica muro/arielle/m^2/1.0/7290.0/07TP/
+ceramica pedralva/cordillera/m^2/1.0/9290.0/34GÑ/
+ceramica cafe  /klipen/m^2/1.0/7690.0/45RK/
+ceramica marfil/cordillera/m^2/1.0/6790.0/58YE/
+ceramica soho mix/mainzu/m^2/1.0/25990.0/83PK/
+ceramica preston/mainzu/m^2/1.0/25990.0/61LV/
+ceramica enzo/mainzu/m^2/1.0/25990.0/67RP/
+poxipol/adepac/ml/14.0/3490.0/01RZ/
+adhesivo ceramico en polvo/topex/kg/25.0/2290.0/73PQ/
+adhesivo en pasta especial/topex/kg/25.0/12490.0/54QN/
+adhesivo ceramico en pasta/topex/kg/6.0/5097.0/10QW/
+adhesivo para baño/solcrom/kg/25.0/3321.0/88MB/
+adhesivo en pasta especial/weber solcrom/kg/25.0/15790.0/10ZS/
+adhesivo ceramico en pasta/adhesivos tx/kg/6.0/5090.0/78YG/
+adhesivo revestimiento/solcrom/kg/25.0/14990.0/50CL/
+adhesivo ceramico en pasta/bekron/kg/25.0/28390.0/19LT/
+adhesivo para piedras/topex/kg/20.0/6987.0/17VD/
+bekron a-c/bekron/kg/6.0/5365.0/21GG/
+adhesivo ceramica exterior/solcrom/kg/25.0/4809.0/40EÑ/
+adhesivo ceramico/sika/kg/25.0/21790.0/25GW/
+adhesivo sikaceram/sika/kg/25.0/25290.0/69UÑ/
+brocha multiproposito/kolor/un/1.0/3350.0/49BT/
+brocha para esmalte y latex/kolor/un/1.0/5230.0/88GE/
+brocha para barniz/kolor/un/1.0/3860.0/71ÑW/
+brocha multiproposito/premier/un/1.0/1990.0/11YE/
+brocha para esmalte sintetico/kolor/un/1.0/5440.0/92UF/
+pincel plano /hela/un/1.0/1390.0/46HW/
+brocha profesional/kolor/un/1.0/7930.0/32RU/
+brocha/mas economica/un/1.0/1290.0/10GH/
+pincel redondo/hela/un/1.0/1690.0/82OW/
+brocha multiproposito/condor/un/1.0/5290.0/00ÑL/
+oleo experto crema/ceresita/galon/0.25/780.0/35CZ/
+esmalte al agua reciclado satin blanco/pinturec/galon/4.0/58790.0/08JI/
+esmalte al agua satinado blanco /tricolor/galon/5.0/77400.0/70MA/
+esmalte al agua satinado marfil/tajamar/galon/1.0/11990.0/35MG/
+esmalte para metales  negro/kolor/galon/1.0/23990.0/44PL/
+pintura latex amarillo/tricolor /galon/1.0/11890.0/66DF/
+pintura latex marfil /tricolor /galon/1.0/11890.0/87ÑK/
+barniz vitrificante semibrillante/sipa/galon/1.0/45590.0/76AW/
+esmalte al agua satinado blanco /tricolor/galon/0.25/8090.0/97FY/
+esmalte al agua semibrillante blanco/sipa/galon/0.25/5490.0/69DX/
+esmalte sintetico cereluxe café/ceresita/galon/0.25/7130.0/52IG/
+oleo brillante /ceresita/galon/5.0/99960.0/00NS/
+pintura latex mate blanco/sipa/galon/4.0/46550.0/11HW/
+esmalte al agua amarillo/rust-oleum/galon/4.0/12990.0/12ZQ/
+esmalte al agua rojo/pinturec/galon/1.0/17590.0/12XY/
+esmalte al agua satin rojo/pinturec/galon/4.0/58790.0/43ÑA/
+pintura latex blanco /tricolor/galon/1.0/11880.0/81WU/
+esmalte al agua blanco /tricolor /galon/0.25/8090.0/55YF/
+esmalte al agua satinado blanco /tricolor/galon/1.0/19350.0/64NW/
+esmalte al agua satinado rojo/tricolor/galon/1.0/19350.0/29JE/
+esmalte al agua satinado damasco/tricolor/galon/1.0/19350.0/15NS/
+esmalte al agua satinado pistacho/tricolor /galon/1.0/19350.0/08ZR/
+esmalte al agua ocre /tricolor/galon/1.0/18990.0/59VY/
+esmalte al agua amarillo/pinturec/galon/1.0/17590.0/57YK/
+esmalte sintetico cafe/ceresita/galon/1.0/20390.0/99EG/
+esmalte sintetico sintetico /ceresita/galon/1.0/7130.0/64JL/
+esmalte sintetico blanco hueso/ceresita/galon/1.0/7130.0/29OM/
+esmalte sintetico base agua blanco/kolor/galon/1.0/10128.0/64SF/
+latex reciclado amarillo/pinturec/galon/4.0/42700.0/93UZ/
+latex reciclado azul/pinturec/galon/4.0/42690.0/54MS/
+esmalte reciclado satin verde/pinturec/galon/1.0/17490.0/27CP/
+esmalte al agua satin azul/pinturec/galon/4.0/58690.0/10IZ/
+esmalte sintetico azul/ceresita/galon/1.0/20390.0/35UI/
+esmalte sintetico ladrillo/ceresita/galon/1.0/20390.0/44JI/
+latex pro 2000 base blanco/topex/galon/1.0/9990.0/57YF/
+esmalte al agua satinado blanco /lanco/galon/5.0/67890.0/13LX/
+esmalte al agua antibacterial blanco/kolor/galon/0.25/9990.0/83FL/
+esmalte sintetico cafe/ceresita/galon/0.25/7130.0/89NS/
+esmalte sintetico calipso/ceresita/galon/1.0/20390.0/30RG/
+esmalte sintetico blanco /ceresita/galon/1.0/20390.0/96YR/
+esmalte sintetico verde accion secado/kolor/galon/1.0/28937.0/94VG/
+esmalte sintetico negro/ceresita/galon/0.25/7130.0/84CO/
+esmalte al agua marfil/soquina/galon/1.0/15990.0/22RM/
+latex pro 2000 base blanco/topex/galon/5.0/39990.0/79JÑ/
+pintura multi superficie/rust-oleum/galon/0.25/7990.0/82CZ/
+esmalte al agua reciclado cafe /pinturec/galon/1.0/17490.0/00UN/
+latex reciclado extracubriente cafe/pinturec/galon/4.0/42690.0/55VX/
+cemento especial/melon/kg/25.0/3490.0/57DG/
+cemento especial/polpaico/kg/25.0/3490.0/58RÑ/
+nivelador piso rigido/transex/kg/25.0/7990.0/35XF/
+estruco exterior/transex/kg/25.0/3070.0/03PL/
+Hormigon predosificado/transex/kg/25.0/2800.0/38MK/
+hormigon rapido/transex/kg/25.0/5790.0/71DP/
+mortero piso/transex/kg/25.0/2800.0/96WC/
+mortero de pega/transex/kg/25.0/2480.0/11AD/
+cemento especial/cbb/kg/25.0/3490.0/08GL/
+cemento blanco/iberica/kg/5.0/4490.0/34FM/
+cemento gris/iberica/kg/5.0/2090.0/24NB/
+cemento gris/iberica/kg/2.5/590.0/28OA/
+cemento blanco/iberica/kg/2.5/2390.0/98CE/
+cemento blanco/iberica/kg/1.0/1490.0/96VG/
+cemento gris/iberica/kg/1.0/690.0/60JS/
+concreto rapido/presec/kg/25.0/5790.0/60ÑD/
+pega albañileria/presec/kg/25.0/2530.0/93ÑF/
+estuco interior/presec/kg/25.0/3640.0/68JP/
+estuco exterior/presec/kg/25.0/3130.0/81QZ/
+piso normal/presec/kg/25.0/2690.0/32ZG/
+hormigon/presec/kg/25.0/2890.0/37PK/
+silkagrout/sika/kg/25.0/10290.0/34ZF/
+sikalisto repair plus/sika/kg/25.0/10390.0/85RW/
+pega albaliñeria/bemezcla/kg/25.0/2480.0/89BA/
+piso normal/bemezcla/kg/25.0/2690.0/15MÑ/
+hormigon/bemezcla/kg/25.0/2800.0/69UV/
+frague acelerador/cave/kg/2.0/11490.0/97QV/
+mortero reparaciones/presec/kg/5.0/1925.0/70NÑ/
+pasta enlucido/cave/kg/24.0/49890.0/17FE/
+placa mdf/generico/cm/40.0/1120.0/99RL/
+melamina blanca/generico/m/2.0/40990.0/22YJ/
+perfil rectangulo/generico/m/6.0/10290.0/84QN/
+perfil angulo/generico/m/6.0/6190.0/02WF/
+perfil canal/generico/m/6.0/12990.0/88YM/
+perfil costanera/generico/m/6.0/26990.0/38RX/
+marco alcantarillado/generico/cm/60.0/7190.0/43HN/
+adocreto recto/generico/cm/10.0/490.0/72VD/
+separador vidrio/generico/un/25.0/6490.0/55EP/
+barniz natural/chilcorrofin/gal/1.0/20390.0/25CF/
+barniz ladrillo/chilcorrofin/gal/1.0/20390.0/88UN/
+impermeabilizante/chilcorrofin/kg/1.0/8890.0/47BV/
+cinta enmascarar/tesa/m/40.0/2050.0/10EÑ/
+impermeabilizante/behr/gal/1.0/32190.0/97UT/
+protector madera/behr/gal/1.0/26490.0/41CV/
+acero liquido/loctite/gr/56.0/5390.0/20UU/
+bloqueador humedad/sipa/gal/1.0/29790.0/24ÑV/
+impermeabilizante/chilcorrofin/kg/5.0/34490.0/66ED/
+bloqueador humedad/chilcorrofin/gal/1.0/24490.0/93ZN/
+adhesivo papel mural/henkel/g/200.0/4490.0/19II/
+tapagoteras/dynal/g/320.0/4690.0/79HM/
+pasta muro/tricolor/kg/1.0/1190.0/29ÑY/
+conduit pvc/generico/m/1.0/3450.0/08ZN/
+cañeria acero de carbono/generico/m/6.0/5900.0/01AW/
+aislapol/etsa/m/1.0/8990.0/94ZF/
+fieltro asfaltico/generico/m/10.0/7890.0/35EU/
+lana de vidrio/romeral/m/28.0/38950.0/04DS/
+betonera/emaresa/lt/130.0/549990.0/06ÑK/
+betonera/emaquip/lt/150.0/609990.0/02ED/
+unidad motriz electrica/emaquip/hp/2.0/164990.0/74QF/
+protector satin natural/xyladecor/gl/1.0/33190.0/28XI/
+barniz poliuretano/sipa/lt/3.0/33290.0/65DB/
+barniz para madera/chilcorrofin/gl/1.5/13090.0/66XY/
+preservante de madera/petrilac/lt/4.0/31490.0/85RA/
+preservante de madera/dynal/lt/1.0/29990.0/07VR/
+barniz brillante/kolor/lt/1.0/8990.0/38HP/
+tinte concentrado nogal/sayerlack/lt/1.0/14290.0/87YT/
+protector madera satinado/kolor/lt/1.0/9290.0/18GB/
+tinte alerce/varathane/lt/1.0/12590.0/24XO/
+barniz a base de agua/varathane/lt/1.0/39990.0/28KF/
+tinte cera negra/varathane/lt/1.0/12590.0/96XS/
+goma laca lemon/quimica universal/gr/100.0/5990.0/98GJ/
+barniz semibrillante/wetproof/gl/1.0/37990.0/53GC/
+protector satin natural/xyladecor/lt/1.0/9090.0/41UF/
+impregnante antitermitas/dynal/gl/1.0/29990.0/48BM/
+tinte cherry/sayerlack/lt/1.0/14290.0/12TJ/
+anticorrosivo gris/pinturec/gl/5.0/58890.0/80KX/
+pintura alto trafico/ceresita/gl/1.0/29990.0/31YF/
+revestimiento plastico/tajamar/gl/1.0/6890.0/91DB/
+masilla para piscina/chilcorrofin/lt/1.0/20990.0/83MW/
+pintura piso roja/groen piso/gal/1.0/24520.0/57ÑY/
+impermeabilizante ladrillos/sika/kg/3.0/17790.0/23QU/
+pintura poro abierto/sipa/gl/1.0/9990.0/86TW/
+sellador para madera/sipa/lt/1.0/6990.0/06TC/
+pintura demarcacion vial/angamos/gl/1.0/24990.0/57PQ/
+latex extracubriente/pinturec/gl/1.0/13500.0/75PW/
+esmalte al agua/pinturec/gl/1.0/17590.0/64YC/
+barniz vitrificante/sipa/gl/1.0/39920.0/78AE/
+pintura de pizarron mate/ceresita/lt/1.0/9490.0/48SS/
+oleo experto/ceresita/lt/1.0/7680.0/52HQ/
+adhesivo en polvo/bekron/kg/25.0/8790.0/37YZ/
+cierre perimetral/generico/mt/2.0/7870.0/21OW/
+yeso carton/volcan/cm/300.0/5590.0/70NF/
+sikagrut/sika/kg/25.0/12250.0/51OH/
+plancha 5v/generico/mt/2.0/6830.0/90RS/
+esmalte blanco satin/sherwin williams/tineta/1.0/77830.0/85DV/
+malla galvanizada/generico/mt/5.0/54340.0/20LE/
+tarugo clavo/importper/un/1.0/240.0/47CV/
+agorex/henkel/cc/120.0/3610.0/46ZI/
+sikadur/sika/kg/1.0/12930.0/08HA/
+tarciado film/generico/mt/100.0/22230.0/62PU/
+angulo laminado/aza/un/1.0/4720.0/93KC/
+frague fluido blanco/cadina/kg/1.0/840.0/28VS/
+pino dimensionado/generico/un/1.0/4900.0/92ZR/
+limpia contacto/loctite/un/1.0/7070.0/44CY/
+agorex tineta/henkel/lt/18.0/124300.0/40MB/
+adhesivo tradicional/vinilit/cc/240.0/2900.0/07CH/
+sika latex botella/sika/lt/1.0/4660.0/14AM/
+agorex tapagoteras/henkel/gr/440.0/5170.0/74QI/
+cal hidraulica/generico/kg/25.0/4120.0/50LP/
+corredera/ducasse/un/100.0/12660.0/02KJ/
+frague bio bio/befrague/kg/1.0/640.0/85CZ/
+cita aisladora electrica/aza/un/1.0/7960.0/25KV/
+adhesivo vinilico/afix/lt/15.0/20630.0/65JH/
+sika tineta/sika/lt/18.0/48180.0/47PY/
+cemento blanco bolsa/quimica universal/kg/1.0/960.0/15LP/
+sikaflex gris/sika/ml/300.0/7530.0/93SR/
+antisol tambor/sika/lt/200.0/263190.0/48KG/
+masilla liviana/marson/kg/20.0/3200.0/05KB/
+huincha de medir/stanley/un/1.0/18630.0/90SA/
+estanque vertical/infraplast/un/1.0/562090.0/08XX/
+silicona neutra/soudal/un/1.0/2760.0/74XE/
+adhesivo de montaje/henkel/un/1.0/3460.0/21AS/
+adhesivo en polvo triple/cadina/un/1.0/7560.0/32NL/
+silicona acetita blanca/generico/un/1.0/2240.0/13HE/
+arena gruesa saco/generico/kg/25.0/890.0/56CK/
+adhesivo de contacto/afix/lt/18.0/21180.0/13UQ/
+adhesivo en pasta/cadina/lt/15.0/10470.0/81BU/
+fosa septica horizontal/bioplastic/un/1.0/372830.0/56AI/
+silicona roja/loctite/un/1.0/6230.0/30MA/
+adhesivo en pasta tineta/cadina/gal/1.0/10470.0/03QS/
+cinta doble contacto/ceys/un/1.0/4560.0/73OY/
+tierra de color azul/generico/kg/1.0/3290.0/42FE/
+sikasil trasnparente/sika/un/1.0/3070.0/47SG/
+frague liquido café/cadina/kg/1.0/1080.0/23RH/
+sikadur gel/sika/kg/5.0/65800.0/35BJ/
+filtro asfaltico crepado/becton/un/1.0/13720.0/05BZ/
+sikacryl blanco/sika/ml/300.0/3110.0/27SU/
+espatula acero flexible/hela/un/1.0/2330.0/65ZY/
+abrazadera cable acero/generico/un/1.0/190.0/38LY/
+agorex/henkel/gl/1.0/29860.0/03ZD/
+sikadur 31/sika/kg/1.0/9758.0/09VF/
+lankorep reparacion/lanko/kg/25.0/7644.0/49MG/
+cal hidraulica saco/generico/kg/25.0/5835.0/74DR/
+sika 2 tineta/sika/lt/18.0/43665.0/60VR/
+sikeceram extra/sika/kg/25.0/8830.0/50DP/
+agorex espuma expansiva/henkel/un/1.0/8320.0/11HB/
+igol primer tineta/sika/lt/16.0/52750.0/75CX/
+puerta prepintada /generico/un/1.0/25300.0/72HV/
+defensa muro escorpion/lioi/un/10.0/6650.0/64FF/
+sikadur gel ab/sika/kg/5.0/65800.0/64ÑO/
+sikacryl as blanco/sika/ml/300.0/3110.0/34MR/
+gancho tradicional/vinilit/un/1.0/990.0/13DL/
+clavo polvora/importper/un/1.0/2350.0/71RF/
+nivelador de piso/transex/kg/25.0/2460.0/86DG/
+intraplast/sika/kg/1.0/1170.0/58HZ/
+espaciador con tomador/f3c/un/1.0/780.0/42UQ/
+cinta de fibra de vidrio/weber/un/1.0/1890.0/36ÑO/
+adhesivo en polvo/cadina/kg/25.0/8590.0/12ED/
+perfil rectangular/generico/un/1.0/10430.0/29DÑ/
+saco de cemento/la union/kg/25.0/3290.0/99SB/
+sanisil blanco/sika/un/1.0/2980.0/60WY/
+loctite trabapernos/loctite/un/1.0/25190.0/71MK/
+camara desgrasadora/bioplastic/un/1.0/43070.0/20RS/
+frague fluido negro/cadina/kg/1.0/850.0/33EM/
+topex hormigon/topex/kg/25.0/2690.0/83PX/
+revestimiento superficial/adhesivos tx/kg/20.0/61990.0/52ÑX/
+Melamina aglomerado/Arauco/un/1.0/35990.0/08FG/
+Melamina MDP/Masisa/un/1.0/49990.0/13OY/
+Melamina roble rústico/Arauco/un/1.0/49990.0/30TU/
+Esmeril angular/Einhell/un/1.0/19990.0/87UJ/
+Perfil canal/melon/kg/33.86/27920.0/57AÑ/
+Perfil rectángulo/sika/kg/8.16/5810.0/85MN/
+Cemento especial/Melón/kg/25.0/3490.0/64LK/
+Expansor mezcla cemento/Sika/kg/1.0/1990.0/15EJ/
+Nivelador piso rígido/Transex/kg/25.0/7990.0/65YI/
+Estuco exterior/Transex/kg/25.0/3070.0/82DF/
+Hormigón predosificado/Transex/kg/25.0/2800.0/91NU/
+Mortero piso/Transex/kg/25.0/2800.0/78VT/
+Mortero de pega/Transex/kg/25.0/2480.0/33QP/
+Cemento  /Iberica/kg/5.0/4490.0/00ÑQ/
+Mortero concreto rápido/Presec/kg/25.0/5790.0/15YH/
+Estuco interior/Presec/kg/25.0/3640.0/27NL/
+Mortero estuco exterior/Presec/kg/25.0/3130.0/82TZ/
+Mortero piso normal/Presec/kg/25.0/2690.0/44CA/
+Sikagrout 214/Sika/kg/25.0/10290.0/49BÑ/
+Sikagrout 212/Sika/kg/25.0/11890.0/45WU/
+Sikalisto repair plus/Sika/kg/25.0/10390.0/82IG/
+Mortero frague acelerador ii plug cave/Cave/kg/2.0/11490.0/32WR/
+Tierra primavera/Iberica/kg/1.0/1490.0/18YO/
+Plancha polishade gris/Polyshade/kg/12.28/90890.0/18PI/
+Plancha polishade perla/Polyshade/kg/12.28/86990.0/26TK/
+Plancha policarbonato Alveolar DVP/DVP/un/1.0/15590.0/72IC/
+Limahoya verde oivo/Cintac/un/1.0/6290.0/00EE/
+Teja metálica continua /Andes/un/1.0/13990.0/09FJ/
+Limahoya arcilla /Cintac/un/1.0/4921.0/87EC/
+Limahoya PPDO terracota/Cintac/un/1.0/4921.0/23RG/
+Limohoya PPDO negro/Cintac/un/1.0/4921.0/54VB/
+Teja continua mate /Inppa/un/1.0/13990.0/41PZ/
+Caballete galvanizado/Cintac/un/1.0/4490.0/25DF/
+Plancha zuncalum/Cintac/un/1.0/6420.0/88XQ/
+Marco puerta/Ingnisterra/un/1.0/37190.0/97LM/
+Perfil desnive rustico/Funktion/un/1.0/5490.0/19ZM/
+Junquillo merbau/Funktion/un/1.0/2190.0/54XZ/
+Pefil nariz/Funktion/un/1.0/7190.0/98DP/
+Cubrejunta alumnio /IDAF/un/1.0/10790.0/76GN/
+Melamina aglomerado rojo/Arauco/un/1.0/42990.0/03SM/
+Moldura decoflair/NMC/un/1.0/14290.0/99II/
+Tapacanto /Rehau/un/1.0/2130.0/26RI/
+Marco puerta natural/AFN/un/1.0/18590.0/83VC/
+Divisor natural/AFN/un/1.0/9290.0/98WY/
+Pierna marco/AFN/un/1.0/9290.0/00NS/
+Moldura rodón/Masisa/un/1.0/2890.0/97WZ/
+Moldura caña/Masisa/un/1.0/3390.0/30ÑG/
+Moldura pilastra/Masisa/un/1.0/3390.0/13YT/
+Tablero desnudo delgado/Arauco Ply/kg/11.4/5490.0/82WB/
+Moldura guardapolvo/Masisa/un/1.0/3990.0/56XS/
+Moldura rodón cedro/Masisa/un/1.0/2890.0/23MI/
+Moldura caña cedro/Masisa/un/1.0/3890.0/85UF/
+Moldura pilastra cedro/Masisa/un/1.0/3490.0/04TJ/
+Moldura guardapolvo cedro/Masisa/un/1.0/3390.0/63XW/
+Moldura  rodón sapella/Masisa/un/1.0/3390.0/00NR/
+Moldura caña sapelli/Masisa/un/1.0/3790.0/98BU/
+Moldura pilastra sapelilli/Masisa/un/1.0/3390.0/88EG/
+Moldura guardapolvo sapelli/Masisa/un/1.0/4190.0/11BT/
+Moldura rodón cerezo/Masisa/un/1.0/2890.0/82MW/
+Moldura  caña cerezo/Masisa/un/1.0/3390.0/22TM/
+Moldura pilastra cerezo/Masisa/un/1.0/3390.0/62LM/
+Moldura guardapolvo cerezo/Masisa/un/1.0/4190.0/33OW/
+Moldura cerezo/Masisa/un/1.0/2890.0/55OO/
+Cinta roja/Temflex/un/1.0/1495.0/04MS/
+Cinta aisladora/Temflex/un/1.0/1495.0/92QZ/
+Marco enchapado/Indep/un/1.0/23190.0/51DR/
+Cornisa blanco/Byp/un/1.0/1420.0/41CA/
+Cornisa blanco cb-501  /B&s/un/1.0/1750.0/83IF/
+Cornisa blanco cb-502/B&s/un/1.0/3070.0/17LC/
+Solución de borde simple/Reperf/un/1.0/1890.0/27VQ/
+Cornisa blanco cb-510/B&s/un/1.0/2190.0/79BB/
+Solución de borde simple cerezo/Reperf/un/1.0/1860.0/04VK/
+Cornisa blanco cb-520/B&s/un/1.0/1860.0/31CJ/
+Cornisa blanca cb-531/B&s/un/1.0/2080.0/05YA/
+Solución de borde negro/Reperf/un/1.0/1890.0/79IX/
+Solución de borde blanco/Reperf/un/1.0/2090.0/73UP/
+Cubrejunta plano atornillable/DVP/un/1.0/4690.0/25JK/
+Cubrejunta plano /Dvp/un/1.0/4690.0/91VY/
+Cubrejunta café/DVP/un/1.0/1970.0/02TG/
+Cornisa blanco DA6/Anadeco/un/1.0/2520.0/43ME/
+Cornisa blanco DA15/Anadeco/un/1.0/2410.0/30KL/
+Cornisa blanco DA18/Anadeco/un/1.0/2740.0/85XA/
+Cornisa blanco DA22/Anadeco/un/1.0/1590.0/57ÑF/
+Cubrejunta muro piso /DVP/un/1.0/5290.0/18FR/
+Cubrejunta piso plana/DVP/un/1.0/5290.0/52IX/
+Cubrejunta piso desnivel/DVP/un/1.0/5290.0/91RH/
+Moldura cornisa Pino/Truchoice/un/1.0/2740.0/57TU/
+Tablero mdf /Arauco/un/1.0/7190.0/02HX/
+Moldura CR1/Truchoice/un/1.0/1190.0/74HP/
+Melamina coigue/Arauco/un/1.0/50390.0/47VB/
+Moldura rodón CR2/Truchoice/un/1.0/2190.0/32IZ/
+Moldura cubrejunta CJ13/Truchoice/un/1.0/11690.0/19CH/
+Tablero mdf pintado/Masisa/un/1.0/11690.0/45UB/
+Moldura cubrejunta pino /Truchoice/un/1.0/2520.0/95MÑ/
+Multiplac Louisiana/Pacific/un/1.0/6790.0/14OE/
+Moldura guardapolvo/Truchoice/un/1.0/2850.0/21VG/
+Moldura guardapolvo GP17/Truchoice/un/1.0/3070.0/16PF/
+Melamina aglomerado /Truchoice/un/1.0/49990.0/98ER/
+Moldura guardapolvo Gp20/Truchoice/un/1.0/4490.0/29US/
+Tapacanto pvc/Dvp/un/1.0/3520.0/01ZK/
+Moldura guardapolvo GP21/Truchoice/un/1.0/4490.0/69ZQ/
+Tapacanto carvalho/DVP/un/1.0/3520.0/37OW/
+Moldura guardapolvo GP18/Truchoice/un/1.0/2960.0/33IP/
+Melamina aglomerada gris/Arauco/un/1.0/42990.0/12TC/
+Melamina aglomerado negro/Arauco/un/1.0/42990.0/83OD/
+Tapacanto pvc gris humo/Rehau/un/1.0/2560.0/01LÑ/
+Tapacanto pvc haya/Rehau/un/1.0/2560.0/28BW/
+Tapacanto pvc roble/Rehau/un/1.0/2240.0/15MB/
+Tapacanto melamínico/Rehau/un/1.0/2990.0/62KB/
+Tapacanto pvc nórdico/Rehau/un/1.0/3520.0/36HZ/
+Manta acústica /Funktion/un/3.0/7990.0/45LT/
+Kit instalación piso/F 3 c/un/1.0/4890.0/70HN/
+Balaustro /Truchoice/un/1.0/3090.0/78OB/
+Moldura guardapolvo GP22/Truchoice/un/1.0/3490.0/63TU/
+Moldura junquillo/Truchoice/un/1.0/1970.0/40WH/
+Rollo tapacanto andino/Rehau/un/1.0/3520.0/98JB/
+Moldura pilastra prepintada/Masisa/un/1.0/1990.0/33LD/
+Moldura pilastra PL11/Masisa/un/1.0/1690.0/83KP/
+Moldura pilastra pino  finger/Truchoice/un/1.0/2740.0/34LK/
+Moldura junquillo  J40/Corza/un/1.0/1190.0/06EM/
+Moldura cornisa MC7/Arauco/un/1.0/2080.0/48WS/
+Marco puerta /Aseti/un/3.0/7990.0/99ZP/
+Marco puerta natural/Aseti/un/3.0/11190.0/53ÑA/
+Cornisa poliestireno e 21skin/Busel/un/1.0/12420.0/49KZ/
+Cubrejunta aluminio/IDAF/un/1.0/7590.0/37NT/
+Cubrejunta alumnio plata/IDAF/un/1.0/7590.0/43ND/
+Moldura cornisa Mah/Aislapol/un/1.0/2960.0/30YI/
+Perfil desnivel aluminio/Funktion/un/1.0/4890.0/51SL/
+Perfil desnivel aluminio rev/Funktion/un/1.0/4890.0/09VI/
+Perfil tapa junta aluminio /Funktion/un/1.0/3990.0/04RB/
+Perfil plat/Funktion/un/1.0/8290.0/18CT/
+Perfil tapa junta aluminio/Funktion/un/1.0/3790.0/82ÑX/
+Perfil tapa junta aluminio roble/Funktion/un/1.0/4290.0/04HM/
+Perfil tapajunta aluminio roble/Funktion/un/1.0/8190.0/04CO/
+Perfil base/Funktion/un/1.0/790.0/32ES/
+Perfil base U/Funktion/un/1.0/1790.0/16GP/
+Perfilangulo/Funktion/un/1.0/6090.0/89IN/
+Perfil angulo aluminio/Funktion/un/1.0/6090.0/29QF/
+Perfil angulo plata/Funktion/un/1.0/5690.0/72YV/
+Manto film polestireno/Funktion/un/1.0/17590.0/27MU/
+Zócalo /Funktion/un/1.0/4890.0/31FM/
+Zócalo mdf /Funktion/un/1.0/5290.0/93BU/
+Cubrejunta tarugo/DVP/un/1.0/4690.0/46HO/
+Mansilla zocalos/Funktion/g/500.0/4390.0/99MY/
+Manto poliestireno acústico/Funktion/un/1.0/7690.0/09FH/
+Mansilla zocalos haya/Funktion/kg/0.43/6290.0/91MK/
+Mansilla zocalos roble/Funktion/g/500.0/5990.0/62IA/
+Masilla reparadora cerezo/Funktion/g/200.0/1990.0/82KM/
+Perfil desnivel mdf cerezo/Funktion/un/1.0/1990.0/15ES/
+Perfil tapajunta mdf roble/Funktion/un/1.0/4390.0/93TA/
+Canto pvc/DVP/un/1.0/3190.0/36IM/
+Olb/Masisa/un/1.0/6990.0/18QY/
+Melamina roble rústico/Arauco/un/1.0/35990.0/18ÑJ/
+Melamina Legno/Arauco/un/1.0/49990.0/08OT/
+Melamina Caramel/Arauco/un/1.0/35990.0/40JJ/
+Perfil terminación  cerezo/Funktion/un/1.0/4990.0/93UQ/
+Perfil terminación roble/Funktion/un/1.0/4490.0/71SI/
+Melamina vesto/Arauco/un/1.0/49990.0/40RK/
+Perfil nariz grada/Funktion/un/1.0/5890.0/33IJ/
+Junquillo cerezo/Funktion/un/1.0/1990.0/29MB/
+Melamina rojizo/Masisa/un/1.0/29990.0/74HT/
+Canto pvc legno/Rehau/un/1.0/2770.0/13HH/
+Rollo tapacanto maracuyá/Rehau/un/1.0/1920.0/30GF/
+Perfil tapa mdf revestido/Funktion/un/1.0/4390.0/14XP/
+Rollo tapacanto PVC lino/DVP/un/1.0/3520.0/83AI/
+Guardapolvo nogal oscuro/Funktion/un/1.0/3490.0/80DB/
